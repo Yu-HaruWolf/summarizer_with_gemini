@@ -1,6 +1,6 @@
 # summarizer_with_gemini
-This app is sample for Function Calling.
-It may occur problem.
+This app is demo for Function Calling.
+It may occur a problem.
 
 Summerizing documents with Gemini.
 This app will provide title and keywords for documents.
